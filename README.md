@@ -1,4 +1,4 @@
 # Impacta+
 
-Carolina Mira
+- Carolina Mira
 - Mauricio Coutinho
